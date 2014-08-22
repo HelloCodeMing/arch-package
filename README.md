@@ -19,9 +19,8 @@ dnsmasq 2.71-1
 dosfstools 3.0.26-1
 e2fsprogs 1.42.11-1
 efibootmgr 0.7.0.16.g099e110-1
-empathy 3.12.4-1
 eog 3.12.2-1
-evince 3.12.1-1
+evince 3.12.2-1
 fakeroot 1.20.1-1
 fcitx 4.2.8.4-1
 fcitx-configtool 0.4.8-1
@@ -41,10 +40,9 @@ gbkunzip 0.2-4
 gdm 3.12.2-1
 gedit 3.12.2-1
 gettext 0.19.2-1
-git 2.0.4-1
+git 2.1.0-1
 glibc 2.19-5
 gnome-backgrounds 3.12.2-1
-gnome-contacts 3.12.0-1
 gnome-control-center 3.12.1-3
 gnome-dictionary 3.10.0-1
 gnome-disk-utility 3.12.1-1
@@ -70,7 +68,7 @@ grilo-plugins 0.2.12-2
 grub 1:2.02.beta2-4
 guake 0.4.4-3
 gucharmap 3.12.1-1
-gvim 7.4.404-1
+gvim 7.4.410-1
 gzip 1.6-1
 htop 1.0.3-2
 httpie 0.8.0-2
@@ -84,7 +82,6 @@ less 458-1
 lib32-libcups 1.7.5-1
 libtool 2.4.2-14
 licenses 20140629-1
-lightsoff 3.12.2-1
 linux 3.16.1-1
 linux-headers 3.16.1-1
 logrotate 3.8.7-3
@@ -100,9 +97,10 @@ mousetweaks 3.12.0-1
 mtools 4.0.18-2
 nano 2.2.6-3
 nautilus 3.12.2-1
+net-tools 1.60.20130531git-1
 netctl 1.9-1
 nmap 6.46-2
-nodejs 0.10.30-1
+nodejs 0.10.31-2
 nvidia 340.32-1
 openssh 6.6p1-2
 package-query 1.4-1
@@ -113,7 +111,6 @@ pcmciautils 018-7
 perl 5.20.0-5
 pinta 1.5-1
 pkg-config 0.28-2
-polari 3.12.2-1
 procps-ng 3.3.9-3
 psmisc 22.21-2
 qt5-connectivity 5.3.1-1
@@ -143,7 +140,6 @@ sushi 3.12.0-1
 swell-foop 3.12.2-1
 sysfsutils 2.1.0-9
 systemd-sysvcompat 215-4
-tali 3.12.2-1
 tar 1.28-1
 terminator 0.97-2
 texinfo 5.2-2
@@ -162,6 +158,7 @@ virtualbox 4.3.14-3
 virtualbox-host-dkms 4.3.14-3
 w3m 0.5.3-5
 which 2.20-7
+wiznote 2.1.11-1
 wqy-microhei 0.2.0_beta-6
 wqy-zenhei 0.9.45-4
 xdg-user-dirs-gtk 0.10-2
